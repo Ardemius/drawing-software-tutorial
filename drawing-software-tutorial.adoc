@@ -22,7 +22,17 @@ TODO: définition à ajouter
 * Dessin matriciel
 TODO: définition à ajouter
 
+=== La pierre angulaire de tout dessin : les calques !
+
 == Inkscape
+
+=== Notions de chemins
+
+Fermer un chemin, briser un chemin
+
+==== Placer du texte sur un chemin
+
+=== Lissage
 
 === Alignement et centrage
 
@@ -44,6 +54,8 @@ Il suffit de suivre les instructions précédentes d'alignement en choisissant s
 
 Exemple : 
 TODO: INSERER SCHEMA DU CIRCULAR ARROW, .svg à ajouter au REPO
+
+=== Exporter une image en Bitmap (PNG ou autre)
 
 === Ressources
 
